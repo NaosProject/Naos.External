@@ -2,12 +2,14 @@
 <package>
   <metadata>
     <id>Naos.External.MS-WinRM</id>
-    <version>1.0.0.0</version>
-    <authors>Naos LLC</authors>
+    <version>1.0.0.1</version>
+	<authors>Naos Project</authors>
+    <copyright>Copyright (c) 2016 Naos LLC</copyright>
+    <projectUrl>http://naosproject.com</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/NaosProject/Naos.Build/master/NAOS-NuGet-Icon-v2.png</iconUrl>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A NuGet package of the necessary libraries to use the Microsoft WinRM protocol from .NET.</description>
-    <copyright>Copyright 2015 Naos LLC</copyright>
-    <licenseUrl>http://www.naosllc.com</licenseUrl>
     <tags>System.Management.Automation, WinRM, Naos</tags>
   </metadata>
   <files>
